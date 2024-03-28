@@ -18,8 +18,6 @@ Projeto final - Banco de dados
 
 
 
-O banco tem as tabelas:
-
 Contexto - 
 
 Regras:
