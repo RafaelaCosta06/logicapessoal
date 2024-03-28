@@ -1,6 +1,8 @@
 <h1 align="center">
-Projeto final - Banco de dados
-    <img src="https://github.com/Amandac-b/G6BancoDeDados/blob/main/imagemcapa.jfif">
+    
+Projeto final - Banco de dados 
+
+<img src="https://github.com/Amandac-b/G6BancoDeDados/blob/main/imagemcapa.jfif">
 </h1>
 
 ## :detective:Índice
